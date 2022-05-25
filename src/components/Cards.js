@@ -17,8 +17,8 @@ function Cards() {
                         path="/services"
                         />
                         <CardItem 
-                        src="images/DJI_0668.jpg"
-                        text='Atardeceres sin iguales'
+                        src="images/img-9.jpg"
+                        text='Cascada Salto Chico Citala'
                         label="Paisajes"
                         path="/services"
                         />
