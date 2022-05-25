@@ -55,7 +55,7 @@ function Footer() {
               <i className='fab fa-typo3' />
             </Link>
           </div>
-          <small className='website-rights'>HHH © 2021</small>
+          <small className='website-rights'>Hécto H.H. © 2022</small>
           <div className='social-icons'>
             <Link
               className='social-icon-link facebook'
